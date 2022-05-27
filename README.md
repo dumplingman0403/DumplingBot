@@ -38,7 +38,7 @@ Invite bot to your discord server:
 |!resume|N/A|Resume playing music|
 |!skip|N/A|Skip current playing song to next one|
 |!stop|N/A|Stops and disconnects the bot from voice|
-|!volume |volume|Changes the player's volume|
+|!volume |`<volume>`|Changes the player's volume|
 |**Greetings**|
 |!hi|N/A|Say "hi" to user|
 |**Manager**|
