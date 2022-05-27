@@ -3,7 +3,7 @@
 A Discord music bot that you can play music from in your Discord server. Easy to setup and you can run it by yourself.
 
 <p align="center">
-    <img alt="bot-logo" src="img/logo-background.png">
+    <img alt="bot-logo" src="img/logo_2.png">
 </p>
 
 ## Features
