@@ -31,9 +31,9 @@ Invite bot to your discord server:
 |!join|N/A|Joins a voice channel|
 |!now|N/A|Returns the song is currently playing|
 |!pause|N/A|Pause playing music|
-|!play |keywords|Plays by searching keywords on Youtube|
-|!play_local|query|Plays a file from the local filesystem|
-|!play_url |url|Plays from a url (almost anything youtube_dl supports)|
+|!play |`<keywords>`|Plays by searching keywords on Youtube|
+|!play_local|`<query>`|Plays a file from the local filesystem|
+|!play_url |`<url>`|Plays from a url (almost anything youtube_dl supports)|
 |!playlist|N/A|Displays songs in queue|
 |!resume|N/A|Resume playing music|
 |!skip|N/A|Skip current playing song to next one|
@@ -42,7 +42,7 @@ Invite bot to your discord server:
 |**Greetings**|
 |!hi|N/A|Say "hi" to user|
 |**Manager**|
-|!delete|amount|Delete number of messages. (need permission to manage messages)|
+|!delete|`<amount>`|Delete number of messages. (need permission to manage messages)|
 |**No Category**|
-|!help |command|Return command description|
+|!help |[command]|Return command description|
 
