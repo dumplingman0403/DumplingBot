@@ -35,5 +35,7 @@ bot.add_cog(Greetings(bot))
 # Add utilities
 bot.add_cog(Manager(bot))
 load_dotenv()
-TOKEN = os.getenv("TOKEN")
+# TOKEN = os.getenv("TOKEN")
+# Heroku Config Var
+TOKEN = os.environ.get("TOKEN")
 bot.run(TOKEN)
