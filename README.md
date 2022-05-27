@@ -18,7 +18,9 @@ A Discord music bot that you can play music from in your Discord server. Easy to
 1. Welcome messages to new members. 
 
 ## Getting Started
+Invite bot to your discord server:
 
+[Invite link](https://discord.com/api/oauth2/authorize?client_id=971060174511042560&permissions=8&scope=bot)
 
 ## Commands list
 

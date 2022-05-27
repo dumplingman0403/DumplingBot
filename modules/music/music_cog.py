@@ -68,7 +68,7 @@ class Music(commands.Cog):
             await ctx.reply("🚫 You are not connected to a voice channel.")
             raise commands.CommandError("Author not connected to a voice channel.")
 
-    @commands.command(help="Stops and disconnects the bot from voice")
+    @commands.command(name="stop", aliases=["dc"], help="Stops and disconnects the bot from voice")
     async def stop(self, ctx):
         """Stops and disconnects the bot from voice"""
         self.music_queue = []
